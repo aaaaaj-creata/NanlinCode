@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\nanlin\Desktop\exercise_20201114\test.cpp(156,21): warning C4018:  “<”: 有符号/无符号不匹配
+  exercise_20201114.vcxproj -> C:\Users\nanlin\Desktop\exercise_20201114\Debug\exercise_20201114.exe
