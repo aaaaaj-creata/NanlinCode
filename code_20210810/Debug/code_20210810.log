@@ -1,0 +1,5 @@
+﻿  test.cpp
+E:\NanlinCodes\code_20210810\test.cpp(13,27): warning C4018: “<”: 有符号/无符号不匹配
+E:\NanlinCodes\code_20210810\test.cpp(16,35): warning C4018: “<”: 有符号/无符号不匹配
+E:\NanlinCodes\code_20210810\test.cpp(31,27): warning C4018: “<”: 有符号/无符号不匹配
+  code_20210810.vcxproj -> E:\NanlinCodes\code_20210810\Debug\code_20210810.exe
